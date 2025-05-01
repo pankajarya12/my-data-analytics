@@ -1,0 +1,6 @@
+Using this libraries
+  pandas
+  plotly
+  streamlit
+  openpyxl
+  
